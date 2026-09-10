@@ -126,4 +126,4 @@ positive polarity and index 2 negative.
 
 | File | Entries | Source |
 
-| `db_iML1515merged.mat` | 802 | *E. coli* model, Monk et al. 2017, Nature Biotechnology (isobars merged) |
+| `db_iML1515merged.mat` | 802 | *E. coli* model, Monk et al. 2017, Nature Biotechnology (isobars merged), metabolites > 50 Da are deleted, because they are not measured in FI-MS |
