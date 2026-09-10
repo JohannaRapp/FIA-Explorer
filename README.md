@@ -23,6 +23,8 @@ It needs the JVM only for compressed files.
    ```matlab
    FiaExplorer_V3
    ```
+Example Data and a Video how to use the software can be found here:
+https://doi.org/10.5281/zenodo.22144227
 
 ## Naming your raw files
 
